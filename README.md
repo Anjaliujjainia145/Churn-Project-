@@ -1,0 +1,1 @@
+This project focuses on analyzing customer churn in a telecom company using demographic, service usage, and account-level features. The goal is to identify the key drivers of churn and provide data-backed insights that can help reduce customer attrition.
